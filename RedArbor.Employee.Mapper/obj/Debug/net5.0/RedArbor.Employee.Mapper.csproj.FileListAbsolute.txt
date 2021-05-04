@@ -1,0 +1,15 @@
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Mapper\bin\Debug\net5.0\RedArbor.Employee.Mapper.deps.json
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Mapper\bin\Debug\net5.0\RedArbor.Employee.Mapper.dll
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Mapper\bin\Debug\net5.0\ref\RedArbor.Employee.Mapper.dll
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Mapper\bin\Debug\net5.0\RedArbor.Employee.Mapper.pdb
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Mapper\bin\Debug\net5.0\RedArbor.Employee.Entities.dll
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Mapper\bin\Debug\net5.0\RedArbor.Employee.Entities.pdb
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Mapper\obj\Debug\net5.0\RedArbor.Employee.Mapper.csprojAssemblyReference.cache
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Mapper\obj\Debug\net5.0\RedArbor.Employee.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Mapper\obj\Debug\net5.0\RedArbor.Employee.Mapper.AssemblyInfoInputs.cache
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Mapper\obj\Debug\net5.0\RedArbor.Employee.Mapper.AssemblyInfo.cs
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Mapper\obj\Debug\net5.0\RedArbor.Employee.Mapper.csproj.CoreCompileInputs.cache
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Mapper\obj\Debug\net5.0\RedArbor.Employee.Mapper.csproj.CopyComplete
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Mapper\obj\Debug\net5.0\RedArbor.Employee.Mapper.dll
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Mapper\obj\Debug\net5.0\ref\RedArbor.Employee.Mapper.dll
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Mapper\obj\Debug\net5.0\RedArbor.Employee.Mapper.pdb

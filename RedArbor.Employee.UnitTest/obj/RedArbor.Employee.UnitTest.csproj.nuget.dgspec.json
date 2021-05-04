@@ -1,0 +1,600 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.UnitTest\\RedArbor.Employee.UnitTest.csproj": {}
+  },
+  "projects": {
+    "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.API\\RedArbor.Employee.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.API\\RedArbor.Employee.API.csproj",
+        "projectName": "RedArbor.Employee.API",
+        "projectPath": "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.API\\RedArbor.Employee.API.csproj",
+        "packagesPath": "C:\\Users\\daala\\.nuget\\packages\\",
+        "outputPath": "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\daala\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Business\\RedArbor.Employee.Business.csproj": {
+                "projectPath": "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Business\\RedArbor.Employee.Business.csproj"
+              },
+              "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Entities\\RedArbor.Employee.Entities.csproj": {
+                "projectPath": "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Entities\\RedArbor.Employee.Entities.csproj"
+              },
+              "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Exceptions\\RedArbor.Employee.Exceptions.csproj": {
+                "projectPath": "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Exceptions\\RedArbor.Employee.Exceptions.csproj"
+              },
+              "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Mapper\\RedArbor.Employee.Mapper.csproj": {
+                "projectPath": "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Mapper\\RedArbor.Employee.Mapper.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[10.1.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Business\\RedArbor.Employee.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Business\\RedArbor.Employee.Business.csproj",
+        "projectName": "RedArbor.Employee.Business",
+        "projectPath": "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Business\\RedArbor.Employee.Business.csproj",
+        "packagesPath": "C:\\Users\\daala\\.nuget\\packages\\",
+        "outputPath": "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\daala\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Data\\RedArbor.Employee.Data.csproj": {
+                "projectPath": "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Data\\RedArbor.Employee.Data.csproj"
+              },
+              "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Entities\\RedArbor.Employee.Entities.csproj": {
+                "projectPath": "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Entities\\RedArbor.Employee.Entities.csproj"
+              },
+              "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Utilities\\RedArbor.Employee.Utilities.csproj": {
+                "projectPath": "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Utilities\\RedArbor.Employee.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Data\\RedArbor.Employee.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Data\\RedArbor.Employee.Data.csproj",
+        "projectName": "RedArbor.Employee.Data",
+        "projectPath": "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Data\\RedArbor.Employee.Data.csproj",
+        "packagesPath": "C:\\Users\\daala\\.nuget\\packages\\",
+        "outputPath": "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\daala\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Entities\\RedArbor.Employee.Entities.csproj": {
+                "projectPath": "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Entities\\RedArbor.Employee.Entities.csproj"
+              },
+              "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Utilities\\RedArbor.Employee.Utilities.csproj": {
+                "projectPath": "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Utilities\\RedArbor.Employee.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Entities\\RedArbor.Employee.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Entities\\RedArbor.Employee.Entities.csproj",
+        "projectName": "RedArbor.Employee.Entities",
+        "projectPath": "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Entities\\RedArbor.Employee.Entities.csproj",
+        "packagesPath": "C:\\Users\\daala\\.nuget\\packages\\",
+        "outputPath": "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\daala\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Exceptions\\RedArbor.Employee.Exceptions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Exceptions\\RedArbor.Employee.Exceptions.csproj",
+        "projectName": "RedArbor.Employee.Exceptions",
+        "projectPath": "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Exceptions\\RedArbor.Employee.Exceptions.csproj",
+        "packagesPath": "C:\\Users\\daala\\.nuget\\packages\\",
+        "outputPath": "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Exceptions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\daala\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Entities\\RedArbor.Employee.Entities.csproj": {
+                "projectPath": "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Entities\\RedArbor.Employee.Entities.csproj"
+              },
+              "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Utilities\\RedArbor.Employee.Utilities.csproj": {
+                "projectPath": "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Utilities\\RedArbor.Employee.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Mapper\\RedArbor.Employee.Mapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Mapper\\RedArbor.Employee.Mapper.csproj",
+        "projectName": "RedArbor.Employee.Mapper",
+        "projectPath": "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Mapper\\RedArbor.Employee.Mapper.csproj",
+        "packagesPath": "C:\\Users\\daala\\.nuget\\packages\\",
+        "outputPath": "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Mapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\daala\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Entities\\RedArbor.Employee.Entities.csproj": {
+                "projectPath": "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Entities\\RedArbor.Employee.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.UnitTest\\RedArbor.Employee.UnitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.UnitTest\\RedArbor.Employee.UnitTest.csproj",
+        "projectName": "RedArbor.Employee.UnitTest",
+        "projectPath": "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.UnitTest\\RedArbor.Employee.UnitTest.csproj",
+        "packagesPath": "C:\\Users\\daala\\.nuget\\packages\\",
+        "outputPath": "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.UnitTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\daala\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.API\\RedArbor.Employee.API.csproj": {
+                "projectPath": "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.API\\RedArbor.Employee.API.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.17.0, )"
+            },
+            "NUnitTestAdapter": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Utilities\\RedArbor.Employee.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Utilities\\RedArbor.Employee.Utilities.csproj",
+        "projectName": "RedArbor.Employee.Utilities",
+        "projectPath": "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Utilities\\RedArbor.Employee.Utilities.csproj",
+        "packagesPath": "C:\\Users\\daala\\.nuget\\packages\\",
+        "outputPath": "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\daala\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

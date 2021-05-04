@@ -1,0 +1,13 @@
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Entities\bin\Debug\net5.0\RedArbor.Employee.Entities.deps.json
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Entities\bin\Debug\net5.0\RedArbor.Employee.Entities.dll
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Entities\bin\Debug\net5.0\ref\RedArbor.Employee.Entities.dll
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Entities\bin\Debug\net5.0\RedArbor.Employee.Entities.pdb
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Entities\obj\Debug\net5.0\RedArbor.Employee.Entities.Concrete.Validators.MessageValidatorResource.resources
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Entities\obj\Debug\net5.0\RedArbor.Employee.Entities.csproj.GenerateResource.cache
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Entities\obj\Debug\net5.0\RedArbor.Employee.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Entities\obj\Debug\net5.0\RedArbor.Employee.Entities.AssemblyInfoInputs.cache
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Entities\obj\Debug\net5.0\RedArbor.Employee.Entities.AssemblyInfo.cs
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Entities\obj\Debug\net5.0\RedArbor.Employee.Entities.csproj.CoreCompileInputs.cache
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Entities\obj\Debug\net5.0\RedArbor.Employee.Entities.dll
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Entities\obj\Debug\net5.0\ref\RedArbor.Employee.Entities.dll
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Entities\obj\Debug\net5.0\RedArbor.Employee.Entities.pdb

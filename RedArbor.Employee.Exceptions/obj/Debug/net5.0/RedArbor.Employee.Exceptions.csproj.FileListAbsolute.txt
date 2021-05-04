@@ -1,0 +1,17 @@
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Exceptions\bin\Debug\net5.0\RedArbor.Employee.Exceptions.deps.json
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Exceptions\bin\Debug\net5.0\RedArbor.Employee.Exceptions.dll
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Exceptions\bin\Debug\net5.0\ref\RedArbor.Employee.Exceptions.dll
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Exceptions\bin\Debug\net5.0\RedArbor.Employee.Exceptions.pdb
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Exceptions\bin\Debug\net5.0\RedArbor.Employee.Entities.dll
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Exceptions\bin\Debug\net5.0\RedArbor.Employee.Utilities.dll
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Exceptions\bin\Debug\net5.0\RedArbor.Employee.Entities.pdb
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Exceptions\bin\Debug\net5.0\RedArbor.Employee.Utilities.pdb
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Exceptions\obj\Debug\net5.0\RedArbor.Employee.Exceptions.csprojAssemblyReference.cache
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Exceptions\obj\Debug\net5.0\RedArbor.Employee.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Exceptions\obj\Debug\net5.0\RedArbor.Employee.Exceptions.AssemblyInfoInputs.cache
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Exceptions\obj\Debug\net5.0\RedArbor.Employee.Exceptions.AssemblyInfo.cs
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Exceptions\obj\Debug\net5.0\RedArbor.Employee.Exceptions.csproj.CoreCompileInputs.cache
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Exceptions\obj\Debug\net5.0\RedArbor.Employee.Exceptions.csproj.CopyComplete
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Exceptions\obj\Debug\net5.0\RedArbor.Employee.Exceptions.dll
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Exceptions\obj\Debug\net5.0\ref\RedArbor.Employee.Exceptions.dll
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Exceptions\obj\Debug\net5.0\RedArbor.Employee.Exceptions.pdb

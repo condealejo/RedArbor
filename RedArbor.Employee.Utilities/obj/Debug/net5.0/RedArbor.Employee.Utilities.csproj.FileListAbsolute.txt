@@ -1,0 +1,11 @@
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Utilities\bin\Debug\net5.0\RedArbor.Employee.Utilities.deps.json
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Utilities\bin\Debug\net5.0\RedArbor.Employee.Utilities.dll
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Utilities\bin\Debug\net5.0\ref\RedArbor.Employee.Utilities.dll
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Utilities\bin\Debug\net5.0\RedArbor.Employee.Utilities.pdb
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Utilities\obj\Debug\net5.0\RedArbor.Employee.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Utilities\obj\Debug\net5.0\RedArbor.Employee.Utilities.AssemblyInfoInputs.cache
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Utilities\obj\Debug\net5.0\RedArbor.Employee.Utilities.AssemblyInfo.cs
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Utilities\obj\Debug\net5.0\RedArbor.Employee.Utilities.csproj.CoreCompileInputs.cache
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Utilities\obj\Debug\net5.0\RedArbor.Employee.Utilities.dll
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Utilities\obj\Debug\net5.0\ref\RedArbor.Employee.Utilities.dll
+D:\RedArbor\Solucion\RedArbor.Employee\RedArbor.Employee.Utilities\obj\Debug\net5.0\RedArbor.Employee.Utilities.pdb

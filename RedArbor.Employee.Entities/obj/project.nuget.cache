@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c+l0AJ2sxIdwLn7gpFmiFGLcPxEbWrlqSNnt/v0r49W2bSvYEG/rDtdsxDfO2yUu7OP5K8pqD5HfgDGusCX2zg==",
+  "success": true,
+  "projectFilePath": "D:\\RedArbor\\Solucion\\RedArbor.Employee\\RedArbor.Employee.Entities\\RedArbor.Employee.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daala\\.nuget\\packages\\fluentvalidation\\10.1.0\\fluentvalidation.10.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

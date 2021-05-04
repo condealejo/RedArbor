@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation.AspNetCore" Version="10.1.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RedArbor.Employee.Business\RedArbor.Employee.Business.csproj" />
+    <ProjectReference Include="..\RedArbor.Employee.Entities\RedArbor.Employee.Entities.csproj" />
+    <ProjectReference Include="..\RedArbor.Employee.Exceptions\RedArbor.Employee.Exceptions.csproj" />
+    <ProjectReference Include="..\RedArbor.Employee.Mapper\RedArbor.Employee.Mapper.csproj" />
+  </ItemGroup>
+
+</Project>
